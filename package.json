@@ -1,0 +1,22 @@
+{
+  "name": "first-back_end",
+  "version": "1.0.0",
+  "description": "my first backend",
+  "main": "src/app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayder2002/first-back_end.git"
+  },
+  "keywords": [
+    "first",
+    "backend",
+    "node",
+    "js"
+  ],
+  "author": "ayder2002 <ayder02.78@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
