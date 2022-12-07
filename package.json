@@ -17,6 +17,6 @@
   "author": "ayder2002 <ayder02.78@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
